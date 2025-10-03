@@ -1,0 +1,15 @@
+{
+  "name": "double-jump-flight-bedrock",
+  "version": "1.0.0",
+  "description": "Double-tap Space to toggle flight in Minecraft Bedrock (Behavior Pack, TS → JS).",
+  "private": true,
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc -w",
+    "pack": "powershell -NoProfile -ExecutionPolicy Bypass -Command \"Compress-Archive -Path behavior_packs/DoubleJumpFlight_BP/* -DestinationPath DoubleJumpFlight.mcpack -Force\""
+  },
+  "devDependencies": {
+    "typescript": "^5.5.0",
+    "@minecraft/server": "^1.12.0"
+  }
+}

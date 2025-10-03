@@ -1,0 +1,25 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "DoubleJumpFlight",
+    "description": "Double-tap Space to toggle flight in survival.",
+    "uuid": "a3a6b9c1-9a4c-4d2f-8d4e-2b6e2b4f3c8a",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 21, 0]
+  },
+  "modules": [
+    {
+      "type": "script",
+      "language": "javascript",
+      "uuid": "7f6b6d46-5c5d-4c6f-9b6e-2a0f9e5f3e21",
+      "version": [1, 0, 0],
+      "entry": "scripts/main.js"
+    }
+  ],
+  "dependencies": [
+    {
+      "module_name": "@minecraft/server",
+      "version": "1.12.0"
+    }
+  ]
+}
