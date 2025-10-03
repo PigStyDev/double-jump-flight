@@ -1,6 +1,6 @@
 {
   "name": "double-jump-flight-bedrock",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Double-tap Space to toggle flight in Minecraft Bedrock (Behavior Pack, TS → JS).",
   "private": true,
   "scripts": {

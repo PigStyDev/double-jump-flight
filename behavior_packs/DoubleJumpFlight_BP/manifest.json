@@ -4,7 +4,7 @@
     "name": "DoubleJumpFlight",
     "description": "Double-tap Space to toggle flight in survival.",
     "uuid": "a3a6b9c1-9a4c-4d2f-8d4e-2b6e2b4f3c8a",
-    "version": [1, 0, 0],
+    "version": [1, 0, 1],
     "min_engine_version": [1, 21, 0]
   },
   "modules": [
