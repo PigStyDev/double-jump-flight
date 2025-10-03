@@ -9,7 +9,7 @@ Minecraft Bedrock behavior pack with TypeScript support.
 This behavior pack lets players double‑tap (via item use) to enable hover-style flight — perfect for training, clutching, or fall safety.
 
 ## Features
-- 🪶 Use a feather to toggle flight ON/OFF
+- 🪶 Double jump to toggle flight ON/OFF
 - 🛬 Auto‑disables when grounded
 - 🧠 Per‑player flight state
 - ⚙️ Written in TypeScript, compiled to JavaScript
