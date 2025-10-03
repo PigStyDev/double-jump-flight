@@ -15,7 +15,7 @@ This behavior pack lets players double‑tap (via item use) to enable hover-styl
 - ⚙️ Written in TypeScript, compiled to JavaScript
 
 ## Installation
-1. Download the latest `.mcpack` from [Releases](https://github.com/YOUR_USERNAME/double-jump-flight-bedrock/releases)
+1. Download the latest `.mcpack` from [Releases](https://github.com/PigStyDev/double-jump-flight-bedrock/releases)
 2. Open it on your device (Windows, iPad, Android, etc.)
 3. Enable the behavior pack in your world settings
 
